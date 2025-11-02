@@ -11,13 +11,13 @@ This mini-project showcases how machine learning and simple logic can be used to
 ## 🖼️ Screenshots
 
 ### 🧾 Moong recipe  
-![Moong recipe](assets/moong.png)
+![Moong recipe](assets/moong.jpeg)
 
 ### 🥗 oats Recipe  
-![oats Recipe ](assets/idli.png)
+![oats Recipe ](assets/idli.jpeg)
 
 ### ▶️ Paneer recipe  
-![Paneer recipe](assets/paneer.png)
+![Paneer recipe](assets/paneer.jpeg)
 
 ---
 
